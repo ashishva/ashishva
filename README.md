@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishva
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently working on Front end development.
+- 🌱 I’m currently working on Front End Development.
 - 💞️ I’m looking to collaborate on enterprise applications.  
 
 <!---
