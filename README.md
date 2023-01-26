@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishva
 - 👀 I’m Software Engineer.
-- 🌱 I’m currently working on Front End Development.
+- 🌱 I’m currently working on Front End Development using React JS.
 - 💞️ I’m looking to collaborate on enterprise projects.  
 
 <!---
