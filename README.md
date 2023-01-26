@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashishva
 - 👀 I’m Software Engineer.
 - 🌱 I’m currently working on Front End Development using React JS.
-- 💞️ I’m looking to collaborate on enterprise projects.  
+- 💞️ I’m looking to collaborate on Enterprise Applications.  
 
 <!---
 ashishva/ashishva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
