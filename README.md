@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashishva
-- 👀 I’m a Software Engineer.
+- 👀 I’m Software Engineer.
 - 🌱 I’m currently working on Front End Development.
 - 💞️ I’m looking to collaborate on enterprise projects.  
 
