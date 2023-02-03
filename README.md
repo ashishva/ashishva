@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashishva
+- 👋 Hi, I’m Ashish Augustine
 - 👀 I’m Software Engineer.
 - 🌱 I’m currently working on Front End Development using React JS.
 - 💞️ I’m looking to collaborate on Enterprise Applications.  
