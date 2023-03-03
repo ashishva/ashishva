@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Augustine
 - 👀 I’m a Software Engineer
-- 🌱 I’m currently working on Front End Development  
+- 🌱 I’m currently working as Front End Developer 
 - 💞️ [Here, is my portfolio](https://ashishaugustine.netlify.app/)
 
 <!---
